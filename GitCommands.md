@@ -1,6 +1,9 @@
 # Git Commands
 
-### GitFlow
+## GitFlow
+*
+*
+*
 
 ## Repository
 *
@@ -12,23 +15,34 @@
 *
 
 ## Branch
+*
 
 ## Commit
+*
 
 ## Merge
+*
 
 ## Checkout
+*
 
 ## Push
+*
 
 ## Pull
+*
 
 ## Remote Add
+*
 
 ## Remote Remove
+*
 
 ## Remote Show
+*
 
 ## Status
+*
 
 ## Master Branch
+*

@@ -8,3 +8,6 @@ Group Members: Adrianna Brzezinska
 2. Git Commands
 3. Change Log
 4. Sources
+
+Tasks
+- [] ReadMe Page

@@ -1,11 +1,11 @@
 # miniproject1-601
 
-Group Members
+<font size="+1">Group Members</font>
 
 Adrianna Brzezinska
 
 
-Index
+<font size="+1">Index</font>
 1. Project Descriptions
 2. Git Commands
 3. Change Log

@@ -2,7 +2,7 @@
 
 Group Members: Adrianna Brzezinska
 
-#Index
+# Index
 
 1. Project Descriptions 
 2. Git Commands

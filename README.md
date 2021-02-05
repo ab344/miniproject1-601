@@ -1,6 +1,6 @@
 # miniproject1-601
 
-Group Members: Adrianna Brzezinska
+Group Members: Adrianna Brzezinska, Kefin Sajan
 
 ## Index
 

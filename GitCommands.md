@@ -31,7 +31,7 @@
 * Push is used to load what is in local storage to the repository. It can be used to show other developers or update previous data. Click [here](https://git-scm.com/docs/git-push) to find out more. 
 
 ## Pull
-*
+* Pull is used to download the the desired files from remote repository to the local machine. It is a commonly used command as developers use this command to keep their project updated between the remote and local versions. Click [here](https://git-scm.com/docs/git-pull)
 
 ## Remote Add
 *

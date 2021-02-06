@@ -58,7 +58,9 @@
 * ` git remote show `
 
 ## Status
-*
+* Status is used to show the user information regarding the repository they are working on. This includes which shows current branch, and any modified files. 
+* Click [here](https://git-scm.com/docs/git-status) to find out more.
+* ` git status `
 
 ## Master Branch
 *

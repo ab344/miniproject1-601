@@ -63,4 +63,6 @@
 * ` git status `
 
 ## Master Branch
-*
+* The master branch is first branch created when initializing with the first commit. This branch symbolizes the best code from the development. This is because a branch point to the commits made, hence why the good code is pushed to the master, while the experimental ones are saved in others.
+* Click [here](https://git-scm.com/book/en/v2/Git-Branching-Basic-Branching-and-Merging) to find out more.
+ 

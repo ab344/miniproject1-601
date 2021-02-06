@@ -1,8 +1,10 @@
 # Sources
 
 ## Git
-https://try.github.io
+* [try.github.io](https://try.github.io) 
 
-https://learngitbranching.js.org
+* [learngitbranching.js.org](https://learngitbranching.js.org) 
 
-https://guides.github.com/introduction/git-handbook/
+* [guides.github.com](https://guides.github.com/introduction/git-handbook/)
+
+* [git-scm.com](https://git-scm.com/docs/) 

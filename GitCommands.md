@@ -9,7 +9,9 @@
 *
 
 ## Clone
-*
+* Cloning a repository into a newly created directory creates remote-tracking branches for each branch in the cloned repository. It also creates and checks out an initial branch that is forked from the cloned repository’s currently active branch. 
+*Click [here](https://git-scm.com/docs/git-clone) to find out more. 
+* ` git clone ` 
 
 ## Fork
 *

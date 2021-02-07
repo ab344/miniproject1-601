@@ -1,5 +1,4 @@
 # IS 601 (Spring/2021) Project 1: Git Collaboration 
-## miniproject1-601
 
 Group Members:
 * Adrianna Brzezinska
@@ -20,5 +19,7 @@ Group Members:
 2. [Git Commands](https://github.com/ab344/miniproject1-601/blob/main/GitCommands.md)
 3. [Change Log](https://github.com/ab344/miniproject1-601/blob/main/changelog.md)
 4. [Sources](https://github.com/ab344/miniproject1-601/blob/main/sources.md)
+
+## Changelog:
 
 

@@ -1,6 +1,6 @@
 # IS 601 (Spring/2021) Project 1: Git Collaboration 
 
-Group Members:
+## Group Members:
 * Adrianna Brzezinska
 * Kefin Sajan
 

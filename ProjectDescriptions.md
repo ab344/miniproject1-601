@@ -6,7 +6,9 @@ Git is an open source content tracker for all sorts of programming projects. It 
 Click [here](https://git-scm.com/book/en/v2/Getting-Started-What-is-Git%3F) to find out more about Git.
 
 ## Docker
+Docker is a virtualization platform to easily run containers. A container is a package which contains everything to run including the code and dependencies that can be easily moved, deleted or replicated across many types of machines without any regard to any configurations that might be stand out. This is a very efficient method for developers as they would have to worry about the site they would be using but rather have more time to focus on programming. A docker container's life is started with a docker image. The image contains critical information regarding what is needed to run like dependencies, tools libraries, etc. The docker hub is an open source repository to download or share one's own image. These image are then monitored and can be maintained by Kubernates or other similar programs.    
 
+Click [here](https://www.docker.com/why-docker) to find out more about Docker.
 
 ## Automated Testing
 

@@ -28,4 +28,10 @@ The Automated Testing Process steps are as follows:
      5. Maintenance 
 
 ## Continuous Integration
+*“Continuous Integration doesn’t get rid of bugs, but it does make them dramatically easier to find and remove.”*
+— Martin Fowler, Chief Scientist, ThoughtWorks
+
+![Alt Text](https://www.pagerduty.com/wp-content/uploads/2020/01/continuous-integration-2.png)
+
+* Continuous integration is a development practice that requires code to be integrated into a shared repository several times a day. Developers push small code chunks to an application’s codebase hosted in a Git repository, and to every push, run a pipeline of scripts to build, test, and validate the code changes before merging them into the main branch. This process allows for early detection of any possible errors and to easily locate them. The process gives the opportunity to spend more time adding features and allows a rapid software delivery timeframe.
 

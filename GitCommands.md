@@ -57,7 +57,7 @@ The overall flow of Gitflow is:
 * Click [here](https://git-scm.com/docs/git-merge) to find out more.
 * ` git merge `
 
-![Alt Text](https://git.logikum.hu/images/tutorials/merge-rebase/02.svg)
+![Alt Text](https://static.javatpoint.com/tutorial/git/images/git-merge-and-merge-conflict.png)
 
 #####
 

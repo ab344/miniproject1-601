@@ -41,7 +41,10 @@ The overall flow of Gitflow is:
 * ` git commit `
 
 ## Merge
-*
+* Joins two or more development histories together.
+* The git merge command allows you to take the independent lines of development created by git branch and integrate them into a single branch.
+* Click [here](https://git-scm.com/docs/git-merge) to find out more.
+* ` git merge `
 
 #####
 

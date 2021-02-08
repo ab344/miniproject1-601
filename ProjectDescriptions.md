@@ -15,6 +15,17 @@
 * Click [here](https://www.docker.com/why-docker) to find out more about Docker.
 
 ## Automated Testing
+![Alt text](https://xbosoft.com/wp-content/uploads/2014/05/test-automation-1200x818.jpg)
+
+* Automated Testing is a software testing technique that tests and compares an actual outcome with an expected outcome. Many benefits stem from automating software testing including execution speed, test coverage, and increased effectiveness. Automating repetitive tasks in software is not only cost-effective, but time effective as well. 
+
+The Automated Testing Process steps are as follows:
+
+     1. Test Tool Selection
+     2. Define scope of Automation
+     3. Planning, Design & Development
+     4. Test Execution
+     5. Maintenance 
 
 ## Continuous Integration
 

@@ -20,6 +20,17 @@
 3. [Change Log](https://github.com/ab344/miniproject1-601/blob/main/changelog.md)
 4. [Sources](https://github.com/ab344/miniproject1-601/blob/main/sources.md)
 
-## Changelog:
+## Changelog Count:
+Click [here](https://github.com/ab344/miniproject1-601/blob/main/changelog.md) to see in more detail. 
 
+### Adrianna
+Fix: 10
+Task: 7
+Feature: 11
+
+### Kefin
+Fix: 9
+Task: 8
+Feature: 11
+  
 

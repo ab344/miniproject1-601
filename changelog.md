@@ -1,6 +1,7 @@
 
 # Changelog
 
+Adrianna  
 Updated Project Descriptions
 
 Adrianna   
@@ -26,7 +27,6 @@ Task: Task images for Adrianna's part
 Adrianna    
 Task: Inserted GitFlow Image
 
- 
 
 Adrianna   
 Task: Inserted image
@@ -68,9 +68,12 @@ Adrianna
 commit clone section
 
 
-Kefin yesterday
+
+######################################################################
   
 ## Commits on Feb 6, 2021
+
+Kefin
 Fix: Update README.md …
 
  
@@ -95,8 +98,24 @@ Task:  added images corresponding to commands
 
  
 Kefin yesterday
+
+Task:  git status.png
  
-Task:  images for Kefins part
+
+Task: git-branches-merge.png
+ 
+
+Task:  git-checkout.png
+ 
+
+Task:  git-push.png
+ 
+
+Task:  git.png
+ 
+
+Task:  remote-branches-1.png
+ 
 
  
 Kefin yesterday
@@ -139,10 +158,11 @@ Fix: Updated sources
  
 Kefin   
 Feature: Added information about master branch
-
-## Commits on Feb 5, 2021
 Feature: Added git status
 
+######################################################################
+
+## Commits on Feb 5, 2021
  
 Kefin   
 Feature:  Added git remote rm 
@@ -167,16 +187,17 @@ Feature: Added infomation about psh
 Kefin   
 Initial empty commit
 
- 
 Kefin   
 Updated checkout
 
  
 Kefin   
-## Commits on Feb 3, 2021
 Fix: Update sources.md
 
- 
+######################################################################
+
+## Commits on Feb 3, 2021
+
 Adrianna    
 Feature: ProjectDescriptions.md
 
@@ -227,5 +248,22 @@ Fix: Update README.md
  
 Adrianna    
 Feature:  Create GitCommands.md
+
+
+
+######################################################################
+
+## Count
+
+### Adrianna
+Fix: 10
+Task: 7
+Feature: 11
+
+### Kefin
+Fix: 9
+Task: 8
+Feature: 11
+  
 
 

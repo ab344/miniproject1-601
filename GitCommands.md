@@ -13,6 +13,7 @@ The overall flow of Gitflow is:
      6. If an issue in master is detected, a hotfix branch is created from master
      7. Once the hotfix is complete, it is merged to both develop and master
 
+![Alt Text](https://miro.medium.com/max/1400/1*uUpzVOpdFw5V-tJ_YvgFmA.png)
 
 ## Repository
 * The repository in Git contains a collection of files of a project and tracks all changes made to files within your project.

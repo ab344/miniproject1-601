@@ -4,6 +4,7 @@
 * GitFlow is a branching model for Git, which was created by Vincent Driessen. Gitflow Workflow helps with continuous software development by implementing DevOps practices. The Workflow defines a strict branching model designed around the project release by providing a robust framework for managing larger projects. 
 
 The overall flow of Gitflow is:
+ 
      1. A develop branch is created from master
      2. A release branch is created from develop
      3. Feature branches are created from develop
@@ -34,7 +35,10 @@ The overall flow of Gitflow is:
 * ` git branch `
 
 ## Commit
-*
+* The command, git-commit, records changes to the repository.
+* A new commit is a direct child of HEAD, usually the tip of the current branch and the branch is updated to point to it.
+* Click [here](https://git-scm.com/docs/git-commit) to find out more. 
+* ` git commit `
 
 ## Merge
 *

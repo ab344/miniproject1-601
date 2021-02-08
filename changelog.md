@@ -2,10 +2,12 @@
 # Changelog
 
 ## Commits on Feb 8, 2021
-Adrianna 
+Adrianna
+ 
 Fix: Updated Changelog
 
 Kefin
+
 Feature: Added count to readme and changelog
 
 ## Commits on Feb 7, 2021

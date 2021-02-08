@@ -4,64 +4,64 @@
 Updated Project Descriptions
 
 Adrianna   
-Updated Project Descriptions
+Fix: Updated Project Descriptions
 
  
 Adrianna   
-Inserted Continuous Integration section
+Feature: Inserted Continuous Integration section
 
  
 Adrianna   
-Updated image link
+Task: Updated image link
 
  
 Adrianna   
-Inserted Images into GitCommands
+Task: Inserted Images into GitCommands
 
  
 Adrianna   
-Task images for Adrianna's part
+Task: Task images for Adrianna's part
 
  
 Adrianna    
-Inserted GitFlow Image
+Task: Inserted GitFlow Image
 
  
 
 Adrianna   
-Inserted image
+Task: Inserted image
 
  
 Adrianna   
-Uploaded image
+Task: Uploaded image
 
  
 Adrianna    
-Inserted Automated Testing Section
+Task: Inserted Automated Testing Section
 
  
 Adrianna   
-Updated Sources
+Feature: Updated Sources
 
  
 Adrianna   
-added merge section
+Feature: added merge section
 
  
 Adrianna   
-Added Commit section
+Feature: Added Commit section
 
  
 Adrianna   
-Added fork and branch section
+Feature: Added fork and branch section
 
  
 Adrianna   
-added GitFlow section
+Feature: added GitFlow section
 
  
 Adrianna   
-added repository section
+Feature: added repository section
 
  
 Adrianna   
@@ -71,97 +71,97 @@ commit clone section
 Kefin yesterday
   
 ## Commits on Feb 6, 2021
-Update README.md …
+Fix: Update README.md …
 
  
 Kefin yesterday
   
-Update ProjectDescriptions.md …
+Feature: Update ProjectDescriptions.md …
 
  
 Kefin yesterday
   
-Update ProjectDescriptions.md …
+Feature: Update ProjectDescriptions.md …
 
  
 Kefin yesterday
   
-Project desc. images
+Task: Project desc. images
 
  
 Kefin yesterday
  
-Task added images corresponding to commands
+Task:  added images corresponding to commands
 
  
 Kefin yesterday
  
-Task images for Kefins part
+Task:  images for Kefins part
 
  
 Kefin yesterday
  
-Create Images.md
+Feature:  Create Images.md
 
  
 Kefin   
-Delete GitCommands …
+Fix: Delete GitCommands …
 
  
 Kefin    
-Fix Updated readme
+Fix:  Updated readme
 
  
 Kefin   
-Updated docker definition
+Fix: Updated docker definition
 
  
 Kefin   
-Added Docker
+Feature: Added Docker
 
  
 Kefin   
-Added misc stuff
+Fix: Added misc stuff
 
  
 Kefin   
-Fixed grammar and md mistakes for Git
+Fix: Fixed grammar and md mistakes for Git
 
  
 Kefin   
-Added information about GIt
+Feature: Added information about GIt
 
  
 Kefin   
 Commits on Feb 5, 2021
-Updated sources
+Fix: Updated sources
 
  
 Kefin   
-Added information about master branch
+Feature: Added information about master branch
 
 ## Commits on Feb 5, 2021
-Added git status
+Feature: Added git status
 
  
 Kefin   
-Added git remote rm and remote show
+Feature:  Added git remote rm 
+Feature:  Added git remote show
+ 
+Kefin   
+Feature: Fixed code indication
 
  
 Kefin   
-Fixed code indication
+Feature: Added remote and remote add
 
  
 Kefin   
-Added remote and remote add
+Feature: Added infomation about pull
 
  
 Kefin   
-Added infomation about pull
-
- 
-Kefin   
-Added infomation about psh
+Feature: Added infomation about psh
 
  
 Kefin   
@@ -174,111 +174,58 @@ Updated checkout
  
 Kefin   
 ## Commits on Feb 3, 2021
-Update sources.md
+Fix: Update sources.md
 
  
 Adrianna    
-Update ProjectDescriptions.md
+Feature: ProjectDescriptions.md
 
  
 Adrianna    
-Update GitCommands.md
+Feature: GitCommands.md
 
  
 Adrianna    
-Update README.md
+Feature: README.md
 
  
 Adrianna    
-Update GitCommands.md
+Fix: Update GitCommands.md
 
  
 Adrianna    
-Update sources.md
+Fix: Update sources.md
 
  
 Adrianna    
-Update sources.md
+Fix: Update sources.md
 
  
 Adrianna    
-Create sources.md
+Fix: Create sources.md
 
  
 Adrianna    
-Create changelog.md
+Fix: Create changelog.md
 
  
 Adrianna    
-Create ProjectDescriptions.md
+Fix: Create ProjectDescriptions.md
 
  
 Adrianna    
-Update GitCommands.md
+Fix: Update GitCommands.md
 
  
 Adrianna    
-Update GitCommands.md
+Fix: Update GitCommands.md
 
  
 Adrianna    
-Update README.md
+Fix: Update README.md
 
  
 Adrianna    
-Update README.md
+Feature:  Create GitCommands.md
 
- 
-Adrianna    
-Update README.md
 
- 
-Adrianna    
-Update README.md
-
- 
-Adrianna    
-Update README.md
-
- 
-Adrianna    
-Update README.md
-
- 
-Adrianna    
-Update README.md
-
- 
-Adrianna    
-Update README.md
-
- 
-Adrianna    
-Update README.md
-
- 
-Adrianna    
-Update README.md
-
- 
-Adrianna    
-Update README.md
-
- 
-Adrianna    
-Update README.md
-
- 
-Adrianna    
-Update README.md
-
- 
-Adrianna    
-Create GitCommands.md
-
- 
-Adrianna    
-Create GitCommands
-
- 
-Adrianna    

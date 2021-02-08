@@ -19,6 +19,8 @@ The overall flow of Gitflow is:
 * A Git repository is the ` .git/ ` folder inside a project
 * Working in repositories keeps projects organized and protected.
 
+![Alt Text](https://github.com/ab344/miniproject1-601/blob/main/assets/repository.png)
+
 ## Clone
 * Cloning a repository into a newly created directory creates remote-tracking branches for each branch in the cloned repository. It also creates and checks out an initial branch that is forked from the cloned repository’s currently active branch. 
 

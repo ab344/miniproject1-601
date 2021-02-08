@@ -24,18 +24,23 @@ The overall flow of Gitflow is:
 
 ## Clone
 * Cloning a repository into a newly created directory creates remote-tracking branches for each branch in the cloned repository. It also creates and checks out an initial branch that is forked from the cloned repository’s currently active branch. 
-
 * Click [here](https://git-scm.com/docs/git-clone) to find out more. 
 * ` git clone ` 
+
+![Alt Text](https://github.com/ab344/miniproject1-601/blob/main/assets/clone.png)
 
 ## Fork
 * When you “fork” a project, GitHub will make a copy of the project that is entirely yours; it lives in your namespace, and you can push to it. This allows giving collaborators push access. 
 * Click [here](https://git-scm.com/book/en/v2/GitHub-Contributing-to-a-Project) to find out more.
 
+![Alt Text](https://github.com/ab344/miniproject1-601/blob/main/assets/fork.png)
+
 ## Branch
 * Branching is diverging from the main line of development to continue to do work without messing with that main line. 
 * Click [here](https://git-scm.com/docs/git-branch) to find out more.
 * ` git branch `
+
+![Alt Text](https://static.javatpoint.com/tutorial/git/images/git-branch.png)
 
 ## Commit
 * The command, git-commit, records changes to the repository.
@@ -43,11 +48,16 @@ The overall flow of Gitflow is:
 * Click [here](https://git-scm.com/docs/git-commit) to find out more. 
 * ` git commit `
 
+![Alt Text](https://github.com/ab344/miniproject1-601/blob/main/assets/commit.png)
+![Alt Text](https://github.com/ab344/miniproject1-601/blob/main/assets/commit2.png)
+
 ## Merge
 * Joins two or more development histories together.
 * The git merge command allows you to take the independent lines of development created by git branch and integrate them into a single branch.
 * Click [here](https://git-scm.com/docs/git-merge) to find out more.
 * ` git merge `
+
+![Alt Text](https://git.logikum.hu/images/tutorials/merge-rebase/02.svg)
 
 #####
 

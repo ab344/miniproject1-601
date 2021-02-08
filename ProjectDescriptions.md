@@ -30,7 +30,7 @@ The Automated Testing Process steps are as follows:
 ## Continuous Integration
 *“Continuous Integration doesn’t get rid of bugs, but it does make them dramatically easier to find and remove.”*
 
-— Martin Fowler, Chief Scientist, ThoughtWorks
+—Martin Fowler, Chief Scientist, ThoughtWorks
 
 ![Alt Text](https://www.pagerduty.com/wp-content/uploads/2020/01/continuous-integration-2.png)
 

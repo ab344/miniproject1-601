@@ -1,17 +1,25 @@
 # Git Commands
 
 ## GitFlow
-*
-*
-*
+* GitFlow is a branching model for Git, which was created by Vincent Driessen. Gitflow Workflow helps with continuous software development by implementing DevOps practices. The Workflow defines a strict branching model designed around the project release by providing a robust framework for managing larger projects. 
+The overall flow of Gitflow is:
+     1. A develop branch is created from master
+     2. A release branch is created from develop
+     3. Feature branches are created from develop
+     4. When a feature is complete, it is merged into the develop branch
+     5. When the release branch is done, it is merged into develop and master
+     6. If an issue in master is detected, a hotfix branch is created from master
+     7. Once the hotfix is complete, it is merged to both develop and master
+
 
 ## Repository
-* The repository in Git contains a collection of files of a projec and tracks all changes made to files within your project.
+* The repository in Git contains a collection of files of a project and tracks all changes made to files within your project.
 * A Git repository is the ` .git/ ` folder inside a project
 * Working in repositories keeps projects organized and protected.
 
 ## Clone
 * Cloning a repository into a newly created directory creates remote-tracking branches for each branch in the cloned repository. It also creates and checks out an initial branch that is forked from the cloned repository’s currently active branch. 
+
 *Click [here](https://git-scm.com/docs/git-clone) to find out more. 
 * ` git clone ` 
 

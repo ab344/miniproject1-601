@@ -2,6 +2,7 @@
 
 ## GitFlow
 * GitFlow is a branching model for Git, which was created by Vincent Driessen. Gitflow Workflow helps with continuous software development by implementing DevOps practices. The Workflow defines a strict branching model designed around the project release by providing a robust framework for managing larger projects. 
+
 The overall flow of Gitflow is:
      1. A develop branch is created from master
      2. A release branch is created from develop
@@ -20,14 +21,17 @@ The overall flow of Gitflow is:
 ## Clone
 * Cloning a repository into a newly created directory creates remote-tracking branches for each branch in the cloned repository. It also creates and checks out an initial branch that is forked from the cloned repository’s currently active branch. 
 
-*Click [here](https://git-scm.com/docs/git-clone) to find out more. 
+* Click [here](https://git-scm.com/docs/git-clone) to find out more. 
 * ` git clone ` 
 
 ## Fork
-*
+* When you “fork” a project, GitHub will make a copy of the project that is entirely yours; it lives in your namespace, and you can push to it. This allows giving collaborators push access. 
+* Click [here](https://git-scm.com/book/en/v2/GitHub-Contributing-to-a-Project) to find out more.
 
 ## Branch
-*
+* Branching is diverging from the main line of development to continue to do work without messing with that main line. 
+* Click [here](https://git-scm.com/docs/git-branch) to find out more.
+* ` git branch `
 
 ## Commit
 *

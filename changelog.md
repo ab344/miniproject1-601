@@ -69,7 +69,6 @@ commit clone section
 
 
 
-######################################################################
   
 ## Commits on Feb 6, 2021
 
@@ -77,27 +76,27 @@ Kefin
 Fix: Update README.md …
 
  
-Kefin yesterday
+Kefin  
   
 Feature: Update ProjectDescriptions.md …
 
  
-Kefin yesterday
+Kefin  
   
 Feature: Update ProjectDescriptions.md …
 
  
-Kefin yesterday
+Kefin  
   
 Task: Project desc. images
 
  
-Kefin yesterday
+Kefin  
  
 Task:  added images corresponding to commands
 
  
-Kefin yesterday
+Kefin  
 
 Task:  git status.png
  
@@ -118,7 +117,7 @@ Task:  remote-branches-1.png
  
 
  
-Kefin yesterday
+Kefin  
  
 Feature:  Create Images.md
 
@@ -160,7 +159,7 @@ Kefin
 Feature: Added information about master branch
 Feature: Added git status
 
-######################################################################
+
 
 ## Commits on Feb 5, 2021
  
@@ -194,7 +193,7 @@ Updated checkout
 Kefin   
 Fix: Update sources.md
 
-######################################################################
+
 
 ## Commits on Feb 3, 2021
 
@@ -251,7 +250,7 @@ Feature:  Create GitCommands.md
 
 
 
-######################################################################
+
 
 ## Count
 

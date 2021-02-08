@@ -6,7 +6,9 @@
 *
 
 ## Repository
-*
+* The repository in Git contains a collection of files of a projec and tracks all changes made to files within your project.
+* A Git repository is the ` .git/ ` folder inside a project
+* Working in repositories keeps projects organized and protected.
 
 ## Clone
 * Cloning a repository into a newly created directory creates remote-tracking branches for each branch in the cloned repository. It also creates and checks out an initial branch that is forked from the cloned repository’s currently active branch. 
